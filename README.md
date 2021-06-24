@@ -1,5 +1,4 @@
 # Danilo Assis
-![profileImage](https://pbs.twimg.com/profile_images/1228483323959402497/Um2g6nW8_400x400.jpg)
 Fullstack Javascript Developer, open source enthusiast and mostly generalist of everything.
 
 ## OpenSource
