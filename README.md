@@ -1,6 +1,8 @@
 # Danilo Assis
 Fullstack Javascript Developer, open source enthusiast and mostly generalist of everything.
 
+[![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloab&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## OpenSource
 - [Fullstack Playground](https://github.com/daniloab/fullstack-playground): Fullstack monorepo playground to be used as example for new technologies and used to build a new one too.
 - [GraphQL Backend Server](https://github.com/daniloab/rbaf-graphql-api) - A GraphQL Backend Server with Relay Concepts.
