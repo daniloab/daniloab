@@ -1,7 +1,7 @@
 # Danilo Assis
 Fullstack Javascript Developer, open source enthusiast and mostly generalist of everything.
 
-![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloab&count_private=true)
+![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloab&count_private=true&show_icons=true)
 
 ## OpenSource
 - [Fullstack Playground](https://github.com/daniloab/fullstack-playground): Fullstack monorepo playground to be used as example for new technologies and used to build a new one too.
